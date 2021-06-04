@@ -31,7 +31,7 @@
 | 4 | Trầm Hữu Nguyên | 19521921 | Thành viên | 19521921@gm.uit.edu.vn | [tramhuunguyen]() | [huunguyen.tram](https://www.facebook.com/huunguyen.tram) |
 
 ## CHỦ ĐỀ BÁO CÁO
-* **Số thứ tự chủ đề:** 4 
+* **Số thứ tự chủ đề:** N02
 * **Tên chủ đề:** Giới thiệu phương pháp thiết kế thuật toán: Divide and Conquer
 
 + [Slide Thuyết trình](./Seminar/Slide_Divide_and_Conquer.pptx)
